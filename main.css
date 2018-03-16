@@ -49,7 +49,7 @@ table {
 
 /* my code here */
 
-body{
+body {
     background-color: #5D5C61;
     color: white;
     text-shadow: 1px 1px 0px black;
@@ -72,7 +72,6 @@ h2 {
 
 h3 {
     font-size: 24px;
-    /* margin-left: 200px; */
     margin-top: 16px;
     font-weight: bold;
 }
@@ -80,8 +79,6 @@ h3 {
 p {
     font-size: 18px;
     margin-top: 16px;
-    /* margin-left: 200px; */
-    /* margin-right: 200px; */
     line-height: 22px;
 }
 
@@ -174,19 +171,11 @@ article {
 .main-image {
     display: flex;
     justify-content: center;
-    /* margin-left: 100px;
-    margin-right: 100px; */
-    /* margin-top: 50px;
-    margin-bottom: 50px; */
 }
 
 .boat-picture {
-    /* width: 1040px;
-    height: 433px; */
     width: 1435px;
     height: 597px;
-    /* width:1248px;
-    height: 519px; */
 }
 
 .blog-section {
